@@ -9,7 +9,6 @@ README 文件通常是代码的第一个入口点。它应该告诉别人如何�
 - [背景](#背景)
 - [安装](#安装)
 - [用法](#用法)
-- [相关项目（可选）](#相关项目)
 - [主要项目负责人](#主要项目负责人)
 - [参与贡献方式](#参与贡献方式)
     - [贡献人员](#贡献人员)
@@ -17,14 +16,13 @@ README 文件通常是代码的第一个入口点。它应该告诉别人如何�
 
 ## 背景
 
-因为现在 Github 上的中国程序员越来越多，但是 Github 还是以英文为主导，对某些英语能力较弱的中国人不友好。所以，我根据 [@RichardLitt](https://github.com/RichardLitt) 主导的标准 README 项目 [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) 编写了中文版的标准 README 。
+ [@guess-number-game](https://github.com/Si-Yang-ME/guess-number-game)一个叫做guess-number-game的c语言游戏 [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) 
 
 ## 安装
 
 [![](https://img.shields.io/badge/%E4%B8%8B%E8%BD%BD-README.md-orange)](README.md)
 
-Github 上的 README 一般是用 Markdown 编写的，所以后缀名是 .md 。所以你需要一个 Markdown 编辑器，我个人推荐使用 [Visual Studio Code](https://code.visualstudio.com/) 。
-
+https://github.com/Si-Yang-ME/guess-number-game的rea
 ## 用法
 
 你可以直接下载 [README.md](README.md) 文件或者用 git 克隆此工程。然后使用 [Visual Studio Code](https://code.visualstudio.com/) 等 Markdown 编辑器打开 [README.md](README.md) 文件，然后根据 [README.md](README.md) 的标准格式套用到你自己项目的 README 中。
