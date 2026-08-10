@@ -1,4 +1,4 @@
-```markdown
+
 # 🎯 猜数字游戏 (Guess Number Game)
 
 [![](https://img.shields.io/badge/%E4%B8%BB%E9%A1%B5-Si--Yang--ME%2Fguess--number--game-orange)](https://github.com/Si-Yang-ME/guess-number-game)
@@ -119,4 +119,3 @@ AGPL-3.0 © 许思阳 (Si-Yang-ME)
 
 本程序的分发是希望它会有用，但没有任何担保；甚至没有对适销性或特定用途适用性的暗示担保。详情请参见 GNU Affero 通用公共许可证。
 
-```
