@@ -54,14 +54,14 @@ int main(void) {
 
 
             if (*xguess!=*xr) {
-                printf("\n不对,");
+                printf("\n不对哦,");
                 (*xtrynumber)++;
                 if (*xguess>*xr) {
-                    printf("大了.请再次输入\n");
+                    printf("有点大了.请再次输入\n");
                     printf("尝试次数：%d\n", *xtrynumber);
                 }
                 if (*xguess<*xr) {
-                    printf("小了.请再次输入\n");
+                    printf("有点小了.请再次输入\n");
                     printf("尝试次数：%d\n", *xtrynumber);
                 }
 
@@ -76,7 +76,7 @@ int main(void) {
 
 
             if (*xguess==*xr) {
-                printf("\n对了.");
+                printf("\n真棒，猜对啦.");
                 printf("尝试次数：%d\n", *xtrynumber);
                 return 0x00;   //注释:0x00猜对了
             }
