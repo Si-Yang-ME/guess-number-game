@@ -19,11 +19,12 @@
 - [开源协议](#开源协议)
 
 ## 背景
-
+```
 这是我学习 C 语言时写的第一个小项目，用来练习指针、随机数生成、输入验证等基础知识。项目灵感来源于经典的猜数字游戏，玩家需要在有限的尝试次数内猜出计算机随机生成的数字。
 
 项目完全开源，遵循 AGPL-3.0 许可证，欢迎各位开发者参考、学习和改进。
 
+```
 - 项目源码：[https://github.com/Si-Yang-ME/guess-number-game](https://github.com/Si-Yang-ME/guess-number-game)
 - 参考标准 README 格式：[RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme)
 
@@ -31,9 +32,10 @@
 
 ### 环境要求
 
+```
 - C 编译器（GCC / Clang）
 - 支持 C99 标准的操作系统（Windows / Linux / macOS）
-
+```
 ### 下载源码
 
 ```bash
@@ -58,6 +60,7 @@ gcc main.c -o guess
 
 游戏规则
 
+```
 1. 程序启动后，会随机生成一个 1~100 之间的整数
 2. 玩家输入猜测的数字
 3. 程序会提示：
@@ -67,6 +70,7 @@ gcc main.c -o guess
 4. 每次猜测都会显示当前尝试次数
 5. 输入非 1~100 的数字会提示错误并要求重新输入
 
+```
 运行示例
 
 ```
