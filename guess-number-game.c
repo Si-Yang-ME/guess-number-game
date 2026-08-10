@@ -1,3 +1,17 @@
+
+/*本程序是自由软件：您可以根据自由软件基金会发布的 GNU Affero 通用公共许可证的条款重新分发和/或修改它，无论是许可证的第 3 版，还是（根据您的选择）任何更高版本。
+
+本程序的分发是希望它会有用，但没有任何担保；甚至没有对适销性或特定用途适用性的暗示担保。有关更多详细信息，请参见 GNU Affero 通用公共许可证。
+
+您应该已经随本程序收到了一份 GNU Affero 通用公共许可证的副本。如果没有，请参见 <https://www.gnu.org/licenses/>。
+你可以在https://github.com/Si-Yang-ME/guess-number-game
+或者其最新链接查看其源代码
+*/
+
+
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
