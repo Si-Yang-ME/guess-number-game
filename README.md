@@ -85,7 +85,7 @@ gcc main.c -o guess
 注意事项
 
 · 程序只接受 1~100 范围内的整数
-· 输入非数字字符（如字母、符号）会导致程序行为异常（此版本未做完整输入校验）
+· 输入非数字字符（如字母、符号）会让你重新输入，不计入猜测次数
 
 主要项目负责人
 
@@ -95,7 +95,7 @@ gcc main.c -o guess
 
 欢迎提交 Issue 和 Pull Request！
 
-https://img.shields.io/badge/%E7%94%B3%E8%AF%B7-Pull%20Request-orange
+https://github.com/Si-Yang-ME/guess-number-game
 
 贡献步骤
 
