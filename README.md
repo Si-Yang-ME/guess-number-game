@@ -84,32 +84,37 @@ gcc main.c -o guess
 
 注意事项
 
+```
 · 程序只接受 1~100 范围内的整数
 · 输入非数字字符（如字母、符号）会让你重新输入，不计入猜测次数
 
+```
 主要项目负责人
 
 @许思阳 (Si-Yang-ME)
 
 参与贡献方式
 
+```
 欢迎提交 Issue 和 Pull Request！
 
 https://github.com/Si-Yang-ME/guess-number-game
-
+```
 贡献步骤
-
+```
 1. Fork 本项目
 2. 创建功能分支 (git checkout -b feature/AmazingFeature)
 3. 提交改动 (git commit -m 'Add some AmazingFeature')
 4. 推送到分支 (git push origin feature/AmazingFeature)
 5. 提交 Pull Request
-
+```
 贡献人员
+```
 
 感谢所有贡献的人！
 
 @许思阳 (Si-Yang-ME)
+```
 
 开源协议
 ```
