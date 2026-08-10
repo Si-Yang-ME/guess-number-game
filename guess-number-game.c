@@ -48,7 +48,14 @@ int main(void) {
 
     do {
 
-        scanf("%d", &*xguess);
+       if(scanf("%d", &*xguess)!=1)
+{
+printf("请输入有效数字\n");
+while(getchar()!='\n');
+continue;
+
+
+}
         if (*xguess<=100&&*xguess>=1) {
 
 
